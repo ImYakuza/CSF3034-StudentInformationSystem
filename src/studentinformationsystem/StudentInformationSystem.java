@@ -9,10 +9,10 @@ public class StudentInformationSystem {
         System.out.println("Name : AHMAD IRHAM AL-HARIDHI BIN ZAIDI");
         System.out.println("Student ID : S88478");
         
-        System.out.print("Enter first test mark (0-50): ");
+        System.out.print("Enter first test mark (0-50): Mark ");
         mark1 = input.nextInt();
         
-        System.out.print("Enter second test mark (0-50): ");
+        System.out.print("Enter second test mark (0-50): Mark ");
         mark2 = input.nextInt();
         
         Total = mark1 + mark2;
